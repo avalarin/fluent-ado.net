@@ -1,5 +1,8 @@
 Утилиты для работы с БД
 ========
+[![Nuget](https://img.shields.io/nuget/dt/Avalarin.Data.svg)](https://www.nuget.org/packages/Avalarin.Data/)
+
+Библиотека доступна в [Nuget](https://www.nuget.org/packages/Avalarin.Data/)
 
 ### Примеры использования:
 
