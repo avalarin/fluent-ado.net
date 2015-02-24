@@ -1,4 +1,4 @@
-Утилиты для работы с БД
+Утилиты для работы с БД в стиле fluent
 ========
 [![Nuget](https://img.shields.io/nuget/dt/Avalarin.Data.svg)](https://www.nuget.org/packages/Avalarin.Data/)
 
